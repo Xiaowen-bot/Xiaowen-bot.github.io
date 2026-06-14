@@ -2,7 +2,7 @@
 title: "Metabolomic signatures of dietary carbohydrates and differential association with type 2 diabetes"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: [/publication/2009-10-01-paper-title-number-1](https://www.nature.com/articles/s44360-025-00023-8)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-01
 venue: 'Nature Health'
