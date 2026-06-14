@@ -2,7 +2,7 @@
 title: "Empirical dietary index for lower urate concentrations and risk of gout: evidence from cohort studies"
 collection: publications
 category: manuscripts
-permalink: [/publication/2010-10-01-paper-title-number-2](https://www.sciencedirect.com/science/article/abs/pii/S0002916525003788?via%3Dihub)
+permalink: https://www.sciencedirect.com/science/article/abs/pii/S0002916525003788?via%3Dihub
 excerpt: ''
 date: 2025-07
 venue: 'The American Journal of Clinical Nutrition'
