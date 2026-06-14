@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2026-01
 venue: 'Nature Health'
 slidesurl: ''
-paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s44360-025-00023-8)'
+paperurl: ''
 bibtexurl: ''
 citation: 'Xiaowen Wang*, Pengfei Xia, Fenglei Wang, Zhiyuan Wu, Yang Hu, A. Heather Eliassen, Oana A. Zeleznik, Shilpa N. Bhupathiraju, Seyed Mohammad Mousavi, Ross L. Prentice, Lesley F. Tinker, Cheng Zheng, Simin Liu, Ying Huang, Sandi L. Navarro, Mary C. Playdon, Steven C. Moore, Linda Snetselaar, Fred K. Tabung, JoAnn E. Manson, Lihong Qi, Daniel Raftery, Walter C. Willett, Johanna W. Lampe, Marian L. Neuhouser, Qi Sun. Metabolomic signatures of dietary carbohydrates and differential association with type 2 diabetes. Nature Health. 2026. 1: 145-157'
 ---
