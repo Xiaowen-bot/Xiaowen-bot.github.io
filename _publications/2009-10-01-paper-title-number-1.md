@@ -3,7 +3,7 @@ title: "Metabolomic signatures of dietary carbohydrates and differential associa
 collection: publications
 category: manuscripts
 permalink: https://www.nature.com/articles/s44360-025-00023-8
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2026-01
 venue: 'Nature Health'
 slidesurl: ''
